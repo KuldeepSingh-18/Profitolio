@@ -16,5 +16,5 @@ This is a responsive and interactive portfolio website built using HTML, Tailwin
 - Git & GitHub
 
 ## 📬 Contact
-- Email: singh8kuldeep1802@example.com
+- Email: singh8kuldeep1802@gmail.com
 - GitHub: [KuldeepSingh-18](https://github.com/KuldeepSingh-18)
